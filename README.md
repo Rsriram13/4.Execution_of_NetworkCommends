@@ -27,6 +27,21 @@ This commands includes
 <BR>
 
 ## Output
-
+### IPCONFIG
+![output](image.png)
+### NETSTAT
+![output](image-1.png)
+### HOSTNAME
+![output](image-2.png)
+### NSLOOKUP
+![output](image-3.png)
+### NBTSTAT
+![output](image-4.png)
+### TRACERT
+![output](image-5.png)
+### PING
+![output](image-6.png)
+### GETMAC
+![output](image-7.png)
 ## Result
 Thus Execution of Network commands Performed 
